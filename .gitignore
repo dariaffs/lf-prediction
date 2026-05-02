@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Colab temp files
+*.colab
+
+# Large files
+*.pkl
+*.h5
+*.pth
+*.pt
+data/
+models/
